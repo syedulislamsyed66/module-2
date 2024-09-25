@@ -1,0 +1,28 @@
+div{
+    border: 5px solid tomato;
+    border-radius: 7px;
+    padding: 15px;
+    text-align: center;
+    margin-top: 15px;
+    box-shadow: 12px 15px 5px;
+
+}
+#a{
+ background-color: aliceblue;   
+}
+#b{
+    background-color: aqua;
+}
+#c{
+    background-color: azure;
+}
+#d{
+    background-color: blanchedalmond;
+}
+h1{ height: 500px;
+    width: 1280px;
+    background-image: url(images.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}

@@ -1,0 +1,23 @@
+h3{
+    /* color: brown; */
+    text-align: center;
+    text-decoration: underline;
+    font-size: 30px;
+}
+.third{
+    /* display: none; */
+    /* visibility: hidden; */
+    /* background-image: url("pexels-kaushal-das-870802.jpg"); */
+}
+*{
+    /* background-color: aqua; */
+    /* background-image: url("pexels-kaushal-das-870802.jpg"); */
+    background-size: cover;
+    /* background-size: 1080px 720px; */
+}
+h2{
+    text-align: center;
+}
+#heading{
+    color: brown;
+}

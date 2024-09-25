@@ -1,0 +1,23 @@
+h3{
+    text-align: center;
+    color:brown;}
+
+    p{
+        color: bisque;
+        text-align: center;
+    }
+body{
+    background-repeat: no-repeat;
+    /* border: 5px solid tomato; */
+  
+}
+div{
+    border: 5px solid red;
+    border-radius: 5px;
+    margin: 15px;
+    padding: 20px;
+    box-shadow: 10px 10px 20px;
+}
+.div1{
+    border: 10px solid yellow;
+}
